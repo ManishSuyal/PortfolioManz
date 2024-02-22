@@ -25,7 +25,7 @@ Feel free to reach out to me! Here's how:
 
 - **Email**: manishsuyal13@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/manishsuyal2099/ 
-- **Portfolio Website**: [Your Portfolio Website URL]
+- **Portfolio Website**: https://manishsuyalportfolio2099.netlify.app/
 
 ---
 
