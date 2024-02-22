@@ -1,8 +1,14 @@
 import React, { useState } from "react";
 import ms from "../assets/ms.png";
 import { Link } from "react-scroll";
-
-import { FaBars, FaTimes } from "react-icons/fa";
+import {
+  FaBars,
+  FaTimes,
+  FaGithub,
+  FaLinkedin
+} from 'react-icons/fa';
+import { HiOutlineMail } from 'react-icons/hi';
+import { BsFillPersonLinesFill } from 'react-icons/bs';
 const Navbar = () => {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
@@ -54,9 +60,45 @@ const Navbar = () => {
         <li className="py-6 text-4xl"><Link onClick={handleClick} to="Contact" smooth={true} duration={500}>Contact</Link></li>
       </ul>
       {/* Social Icons  */}
-      <div className="hidden"></div>
+   {/* Social icons */}
+   <div className='hidden lg:flex fixed flex-col top-[35%] left-0'>
+        <ul>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
+            <a target="_blank"
+              className='flex justify-between items-center w-full text-gray-300'
+              href='https://www.linkedin.com/in/manishsuyal2099/'
+            >
+              Linkedin <FaLinkedin size={30} />
+            </a>
+          </li>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
+            <a target="_blank"
+              className='flex justify-between items-center w-full text-gray-300'
+              href='https://github.com/ManishSuyal'
+            >
+              Github <FaGithub size={30} />
+            </a>
+          </li>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
+            <a target="_blank"
+              className='flex justify-between items-center w-full text-gray-300'
+              href='mailto:manishsuyal13@gmail.com'
+            >
+              Email <HiOutlineMail size={30} />
+            </a>
+          </li>
+          <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
+            <a target="_blank"
+              className='flex justify-between items-center w-full text-gray-300'
+              href='https://drive.google.com/file/d/1AQ9k-neyoysBJ7z90X8MjnD9SFQGdHBq/view?usp=sharing'
+            >
+              Resume <BsFillPersonLinesFill size={30} />
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
   );
 };
 
-export default Navbar;
+export default Navbar;   
