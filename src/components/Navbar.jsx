@@ -30,9 +30,24 @@ const Navbar = () => {
             About
           </Link>
         </li>
+         <li>
+          <Link to="Experience" smooth={true} duration={500}>
+            Experience
+          </Link>
+        </li>
+        <li>
+          <Link to="Achievements" smooth={true} duration={500}>
+            Achievements
+          </Link>
+        </li>
         <li>
           <Link to="Skills" smooth={true} duration={500}>
             Skills
+          </Link>
+        </li>
+        <li>
+          <Link to="Work" smooth={true} duration={500}>
+            Projects
           </Link>
         </li>
         <li>
@@ -56,7 +71,10 @@ const Navbar = () => {
       >
         <li className="py-6 text-4xl"><Link onClick={handleClick} to="Home" smooth={true} duration={500}>Home</Link></li>
         <li className="py-6 text-4xl"><Link onClick={handleClick} to="About" smooth={true} duration={500}>About</Link></li>
+        <li className="py-6 text-4xl"><Link onClick={handleClick} to="Experience" smooth={true} duration={500}>Experience</Link></li>
+        <li className="py-6 text-4xl"><Link onClick={handleClick} to="Achievements" smooth={true} duration={500}>Achievements</Link></li>
         <li className="py-6 text-4xl"><Link onClick={handleClick} to="Skills" smooth={true} duration={500}>Skills</Link></li>
+        <li className="py-6 text-4xl"><Link onClick={handleClick} to="Work" smooth={true} duration={500}>Projects</Link></li>
         <li className="py-6 text-4xl"><Link onClick={handleClick} to="Contact" smooth={true} duration={500}>Contact</Link></li>
       </ul>
       {/* Social Icons  */}
@@ -90,7 +108,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a target="_blank"
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://drive.google.com/file/d/1AQ9k-neyoysBJ7z90X8MjnD9SFQGdHBq/view?usp=sharing'
+              href='https://drive.google.com/file/d/1IpYqgPfvWl3AhLekdlD7m6JdhwQF_lBq/view'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
