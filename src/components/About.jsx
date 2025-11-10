@@ -14,14 +14,11 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Manish Suyal, nice to meet you. Please take a look around.</p>
+              <p>Hi👋. I'm Manish &#128515;, an aspiring Product Manager in Tech industry. Please take a look around.  </p>
             </div>
             <div>
-              <p>Hi , I am a frontend web developer with almost 1 year of experience at a startup currently looking for web developer roles. 
-I have familiarity with frontend technologies like react ,js  ,html , css etc .
-Also I have used technologies like jira , bitbucket , loom and all the essentials required for communication between the team and know good practices.
-My contact details are added in the resume .
-Thanks
+              <p>A result driven Product analyst with 3 years of experience excel in managing cross-functional product delivery ,roadmap execution and data-backed decision-making. Led teams and projects that delivered real impact , improved business outcomes. Skilled in customer analysis , optimizing workflows and driving measurable efficiency gains.
+Passionate about developing scalable, user-centric product solutions that enhance user engagement and strengthen business results.
 
 </p>  
             </div>
