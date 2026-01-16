@@ -21,7 +21,7 @@ const Skills = () => {
           <path d="M10 11a1 1 0 011 1v3a1 1 0 11-2 0v-3a1 1 0 011-1z" />
         </svg>
       ),
-      list: ['Product Strategy','Scrum', 'Product Roadmapping', 'Stakeholder Management', 'Research', 'UAT','Gen AI', 'Sales'],
+      list: ['Product Strategy','Scrum/Agile', 'Product Roadmapping', 'Stakeholder Management', 'B2C and B2B in web solutions/apps', 'UAT','Gen AI', 'A/B Testing'],
       hoverClass: 'hover:border-purple-500 hover:shadow-purple-900', // Unique hover for Product
     },
     {
@@ -32,7 +32,7 @@ const Skills = () => {
           <path fillRule="evenodd" d="M3 8h14v7a2 2 0 01-2 2H5a2 2 0 01-2-2V8zm5 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" clipRule="evenodd" />
         </svg>
       ),
-      list: ['PowerPoint','VS Code', 'Excel', 'MS Office Suite', 'SharePoint', 'JIRA'],
+      list: ['Power suite','VS Code', 'Excel','notion', 'MS Office Suite', 'SharePoint', 'JIRA'],
       hoverClass: 'hover:border-blue-500 hover:shadow-blue-900', // Unique hover for Tools
     },
   ];

@@ -33,12 +33,12 @@ const Experience = () => {
       duration: 'May 2024 - Present',
       icon: <GlobeIcon className="text-teal-400 w-6 h-6" />,
       highlights: [
-        '<strong>Owned and delivered</strong> a product solving content visibility for news and events, enhancing engagement across global teams.',
-        '<strong>Partnered with US stakeholders</strong> directly to deliver and implement content in the form of <strong>200+ web-pages</strong> on DeloitteNet enhancing content visibility and engagement across global teams.',
-        'Supported content visibility increase by almost **250%** by providing data-driven insights and UI/UX suggestions.',
-        '<strong>PExecuted cross-platform UAT</strong>, suggesting enhancements which reduced content creation time by <strong>30%</strong> and enhanced operational efficiency.',
-        'Developed data-driven quarterly reports from Adobe dashboards showcasing project highlights and actionable insights.',
-        'Developed web scraping scripts leveraging <strong>Generative AI</strong> and prompt engineering to analyze **10,000+** articles spanning 9+ years.',
+        '<strong>Spearheaded product delivery</strong> for global internal applications, collaborating with US stakeholders and dev teams to streamline Deloitte news and events.',
+        '<strong>Drove a 250% increase in content visibility</strong> by leveraging data-driven insights and implementing UI/UX enhancements across 200+ web pages.',
+        '<strong>Optimized operational efficiency</strong> by executing cross-platform UAT and identifying critical pain points, reducing content creation time by 30%.',
+        '<strong>Leveraged Generative AI and prompt engineering</strong> to build web scraping python scripts, analyzing 10,000+ historical articles to inform product strategy.',
+        '<strong>Designed and developed metrics dashboards,</strong> enabling stakeholders to make faster, informed decisions through quarterly performance insights.',
+        '<strong>Led platform migration initiatives,</strong> providing strategic UX improvements and ensuring high-quality product functionality during end-to-end testing.',
       ],
     },
     {
@@ -49,10 +49,10 @@ const Experience = () => {
       duration: 'Sept 2022 - Aug 2023',
       icon: <LaptopIcon className="text-teal-400 w-6 h-6" />,
       highlights: [
-        '<strong>Led a cross-functional team (devs, testers, BAs)</strong> to deliver high-quality products on schedule by aligning with business goals.',
-        '<strong>Collaborated closely with CEO and CTO </strong>Pto shape product strategies, prioritize features, and understand user requirements.',
-        'Implemented and deployed **500+** digital certificates based on Figma designs using React-based UI tools for schools and colleges.',
-        'Mentored and onboarded juniors and interns, guiding them through setup and troubleshooting, improving delivery speed and team efficiency.',
+        'Led a cross-functional engineering-team in a <strong>fast-paced scrum/Agile environment</strong>, ensuring high-quality releases on schedule.',
+        '<strong>Partnered with C-suite leadership (CEO/CTO)</strong> to shape product roadmaps, prioritize feature backlogs, and define user requirements.',
+        '<strong>Scaled institutional branding</strong> by deploying 500+ digital certificate products, utilizing React-based tools and Figma designs to enhance customer satisfaction and MAU.',
+        '<strong>Mentored and onboarded junior talent,</strong> establishing setup protocols that improved team delivery speed and overall product quality.',
       ],
     },
   ];

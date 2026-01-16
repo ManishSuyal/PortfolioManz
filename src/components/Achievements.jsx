@@ -27,19 +27,19 @@ const Achievements = () => {
     const achievementsList = [
         {
             title: 'Spot Award (Deloitte)',
-            description: 'Recognized for taking ownership in migrating content to the new Deloitte platform, effectively collaborating with US teams and stakeholders, and providing valuable insights for UX enhancements.',
+            description: '<strong>High-Impact Platform Migration:</strong> Lead the end-to-end migration of enterprise content to a new global platform. Collaborated with US stakeholders to implement UX improvements that significantly enhanced platform functionality.',
             icon: <StarIcon className="w-8 h-8 text-yellow-400" />,
             color: 'bg-yellow-900/30 border-yellow-700',
         },
         {
             title: 'Spot Award (Deloitte) - UAT/Quality',
-            description: 'Awarded for partnering with US and tech teams to execute comprehensive end-to-end UAT testing across the platform, which helped in fixing bugs, resolving issues, and driving significant design and functionality improvement.',
+            description: '<strong>Quality Assurance & UX Optimization:</strong> Recognized for leading comprehensive UAT cycles in partnership with US tech teams. Identified and resolved critical bugs, driving substantial improvements in product design and user flow.',
             icon: <StarIcon className="w-8 h-8 text-yellow-400" />,
             color: 'bg-yellow-900/30 border-yellow-700',
         },
         {
-            title: 'Festive Retail Venture Success',
-            description: 'Executed festive stalls for artificial jewelry and fast-food, generating a profit of ₹1.25 Lakh+ in 5 days by identifying market demand, optimizing pricing, and managing end-to-end operations under high pressure.',
+            title: '<strong>Festive Retail Venture | Entrepreneurial Leadership</strong>',
+            description: 'Generated <strong>₹1.25 Lakh+ net profit in just 5 days</strong> by launching a high-traffic retail pop-up during peak festive season. Managed end-to-end operations, including market demand analysis, dynamic pricing optimization, and inventory management.',
             icon: <LightBulbIcon className="w-8 h-8 text-teal-400" />,
             color: 'bg-teal-900/30 border-teal-700',
         },
