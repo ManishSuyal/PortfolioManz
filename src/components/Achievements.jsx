@@ -38,7 +38,7 @@ const Achievements = () => {
             color: 'bg-yellow-900/30 border-yellow-700',
         },
         {
-            title: '<strong>Festive Retail Venture | Entrepreneurial Leadership</strong>',
+            title: 'Festive Retail Venture | Entrepreneurial Leadership',
             description: 'Generated ₹1.25 Lakh+ net profit in just 5 days by launching a high-traffic retail pop-up during peak festive season. Managed end-to-end operations, including market demand analysis, dynamic pricing optimization, and inventory management.',
             icon: <LightBulbIcon className="w-8 h-8 text-teal-400" />,
             color: 'bg-teal-900/30 border-teal-700',
