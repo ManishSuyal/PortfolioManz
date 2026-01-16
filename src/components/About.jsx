@@ -18,7 +18,7 @@ const About = () => {
             </div>
             <div>
               <p>Product analyst with over 3 years of experience in managing cross-functional product delivery around B2C and B2B web/apps
-solutions.Skilled in customer analysis , optimizing workflows and driving measurable efficiency gains. Passionate about developing scalable, user-centric product solutions that enhance user engagement and strengthen business results.
+solutions. Skilled in customer analysis , optimizing workflows and driving measurable efficiency gains. Passionate about developing scalable, user-centric product solutions that enhance user engagement and strengthen business results.
 
 </p>  
             </div>
