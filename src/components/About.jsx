@@ -17,8 +17,8 @@ const About = () => {
               <p>Hi👋. I'm Manish &#128515;, an aspiring Product Manager in Tech industry. Please take a look around.  </p>
             </div>
             <div>
-              <p>Product analyst with over 3 years of experience in managing cross-functional product delivery around B2C and B2B web/apps
-solutions. Skilled in customer analysis , optimizing workflows and driving measurable efficiency gains. Passionate about developing scalable, user-centric product solutions that enhance user engagement and strengthen business results.
+              <p>Product owner with over 3 years of experience in managing cross-functional product delivery around B2C and B2B web/apps
+solutions. Skilled in UI/UX, customer analysis, optimizing workflows and driving measurable efficiency gains. Passionate about developing scalable, user-centric product solutions that enhance user engagement and strengthen business results.
 
 </p>  
             </div>
