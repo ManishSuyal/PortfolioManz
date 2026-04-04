@@ -3,6 +3,7 @@
 import ev  from "../assets/ev.png"
 import shopper  from "../assets/shopper.png"
 import notes  from "../assets/notes.png"
+import Dashboard from "../assets/Dashboard.png"
 
 export const data=[
     {
@@ -30,7 +31,7 @@ export const data=[
     {
         id:4,
         name:"Amazon sales dashboard",
-        image: notes,
+        image: Dashboard,
         github:"text",
         live:"https://public.tableau.com/views/AmazonSalesDashboard_17705397272710/WelcomePage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
     }
