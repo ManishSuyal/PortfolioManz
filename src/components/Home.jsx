@@ -35,7 +35,7 @@ const Home = () => {
         {/* Description - Max width set for better readability, subtle color */}
         <p className='text-gray-300 text-lg py-4 max-w-[600px] leading-relaxed animate-fadeInUp'>
           I specialize in driving data-informed strategies and B2C, B2B web/apps solutions . 
-          Currently at @
+          Currently working at @
           <span className="inline-flex items-center space-x-1 ml-1 font-bold">
             <svg className="w-2 h-2 text-green-500" viewBox="0 0 10 10" fill="currentColor">
               <circle cx="5" cy="5" r="5" />
