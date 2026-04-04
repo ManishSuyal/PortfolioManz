@@ -28,17 +28,18 @@ const Experience = () => {
     {
       id: 1,
       company: 'Deloitte USI',
-      role: 'Product Analyst',
+      role: 'Analyst',
       location: 'Hyderabad, Onsite',
       duration: 'May 2024 - Present',
       icon: <GlobeIcon className="text-teal-400 w-6 h-6" />,
       highlights: [
-        '<strong>Spearheaded product delivery</strong> for global internal applications, collaborating with US stakeholders and dev teams to streamline Deloitte news and events.',
-        '<strong>Drove a 250% increase in content visibility</strong> by leveraging data-driven insights and implementing UI/UX enhancements across 200+ web pages.',
-        '<strong>Optimized operational efficiency</strong> by executing cross-platform UAT and identifying critical pain points, reducing content creation time by 30%.',
-        '<strong>Leveraged Generative AI and prompt engineering</strong> to build web scraping python scripts, analyzing 10,000+ historical articles to inform product strategy.',
-        '<strong>Designed and developed metrics dashboards,</strong> enabling stakeholders to make faster, informed decisions through quarterly performance insights.',
-        '<strong>Led platform migration initiatives,</strong> providing strategic UX improvements and ensuring high-quality product functionality during end-to-end testing.',
+        '<strong>Built a 0→1</strong> global procurement platform deployed across 6+ Member Firms and 10+ geographies, reducing service access friction with responsive design, multi-language support, and saved user preferences.',
+        'Spearheaded end-to-end product management and delivery for global internal applications by <strong>collaborating with cross-functional teams, streamlined news and event workflows</strong> for international firm-wide consistency.',
+        'Drove a <strong>250% increase in content visibility across 200+ web pages</strong> by identifying user friction through data-driven insights and implementing targeted UI/UX enhancements.',
+        'Built a profiles library, leveraging <strong>APIs to sync real-time list data</strong> and reducing manual effort <strong>from 2 days to 10 min</strong>.',
+        'Optimized team efficiency by executing <strong>cross-platform UAT</strong> and identifying critical pain points/enhancements, <strong>reducing content creation time by 30%</strong>.',
+        'Leveraged <strong>GenAI and prompt engineering</strong> to build web scraping python scripts, automating and reducing the analysis of 10,000+ intranet site pages to <strong>85% (from 3-4 weeks to 3 days)</strong>.',
+        '<strong>Developed management decks, executive/quarterly reports</strong> and interactive dashboards influencing roadmap, strategy, resources and clarity for senior managers/stakeholders/PPMDs to make faster, data-backed strategic decisions.'
       ],
     },
     {
@@ -49,10 +50,9 @@ const Experience = () => {
       duration: 'Sept 2022 - Aug 2023',
       icon: <LaptopIcon className="text-teal-400 w-6 h-6" />,
       highlights: [
-        'Led a cross-functional engineering-team in a <strong>fast-paced scrum/Agile environment</strong>, ensuring high-quality releases on schedule.',
+        '<strong>Led a cross-functional dev-team with</strong> design, developers, QA, business in a fast-paced <strong>Agile-scrum environment</strong> owning product roadmap, ensuring high-quality releases on schedule.',
         '<strong>Partnered with C-suite leadership (CEO/CTO)</strong> to shape product roadmaps, prioritize feature backlogs, and define user requirements.',
-        '<strong>Scaled institutional branding</strong> by deploying 500+ digital certificate products, utilizing React-based tools and Figma designs to enhance customer satisfaction and MAU.',
-        '<strong>Mentored and onboarded junior talent,</strong> establishing setup protocols that improved team delivery speed and overall product quality.',
+        '<strong>Scaled institutional branding by deploying 500+ digital certificate products</strong>, utilizing React-based tools and Figma designs to enhance customer satisfaction and MAU.',
       ],
     },
   ];
