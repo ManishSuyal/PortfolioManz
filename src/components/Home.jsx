@@ -29,13 +29,13 @@ const Home = () => {
         
         {/* Secondary Heading - Slightly subdued, defining role */}
         <h2 className='text-4xl sm:text-6xl font-bold text-gray-400 mb-4 animate-fadeInRight'>
-          I'm a Product Analyst.
+          I'm a Product Owner/anlyst.
         </h2>
         
         {/* Description - Max width set for better readability, subtle color */}
         <p className='text-gray-300 text-lg py-4 max-w-[600px] leading-relaxed animate-fadeInUp'>
           I specialize in driving data-informed strategies and B2C, B2B web/apps solutions . 
-          Currently a Product Analyst at @
+          Currently at @
           <span className="inline-flex items-center space-x-1 ml-1 font-bold">
             <svg className="w-2 h-2 text-green-500" viewBox="0 0 10 10" fill="currentColor">
               <circle cx="5" cy="5" r="5" />
