@@ -32,7 +32,6 @@ export const data=[
         id:4,
         name:"Amazon sales dashboard",
         image: Dashboard,
-        github:"text",
         live:"https://public.tableau.com/views/AmazonSalesDashboard_17705397272710/WelcomePage?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link",
     }
 
