@@ -10,7 +10,7 @@ const Skills = () => {
           <path fillRule="evenodd" d="M3 3a1 1 0 011-1h12a1 1 0 011 1v3a1 1 0 01-.293.707L12 11.414V15a1 1 0 01-.293.707l-2 2A1 1 0 018 17v-5.586L3.293 6.707A1 1 0 013 6V3z" clipRule="evenodd" />
         </svg>
       ),
-      list: ['SQL', 'Tableau', 'Data Visualization', 'Analytics', 'Prompt Engineering', 'HTML', 'CSS', 'JS'],
+      list: ['SQL', 'Tableau', 'Data Visualization', 'Analytics','LLM Fine-tuning', 'Prompt Engineering', 'HTML', 'CSS', 'JS'],
       hoverClass: 'hover:border-teal-500 hover:shadow-teal-900', // Unique hover for Data
     },
     {
@@ -21,7 +21,7 @@ const Skills = () => {
           <path d="M10 11a1 1 0 011 1v3a1 1 0 11-2 0v-3a1 1 0 011-1z" />
         </svg>
       ),
-      list: ['Product Strategy','Scrum/Agile', 'Product Roadmapping', 'Stakeholder Management', 'B2C and B2B in web solutions/apps', 'UAT','Gen AI', 'A/B Testing'],
+      list: ['Product Strategy','Scrum/Agile','Prioritization', 'Product Roadmapping', 'Stakeholder Management', 'B2C and B2B in web solutions/apps', 'UAT','Gen AI', 'A/B Testing'],
       hoverClass: 'hover:border-purple-500 hover:shadow-purple-900', // Unique hover for Product
     },
     {
@@ -32,7 +32,7 @@ const Skills = () => {
           <path fillRule="evenodd" d="M3 8h14v7a2 2 0 01-2 2H5a2 2 0 01-2-2V8zm5 3a1 1 0 011-1h2a1 1 0 110 2H9a1 1 0 01-1-1z" clipRule="evenodd" />
         </svg>
       ),
-      list: ['Power suite','VS Code', 'Excel','notion', 'MS Office Suite', 'SharePoint', 'JIRA'],
+      list: ['Power suite','VS Code', 'Excel','notion', 'MS Office Suite', 'SharePoint', 'JIRA', 'Figma', 'Azure devops'],
       hoverClass: 'hover:border-blue-500 hover:shadow-blue-900', // Unique hover for Tools
     },
   ];
