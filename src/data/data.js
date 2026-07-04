@@ -7,6 +7,7 @@ import Dashboard from "../assets/Dashboard.png"
 import AE from "../assets/AE.png"
 import AEP from "../assets/AEP.png"
 import FA from "../assets/FA.png"
+import LI from "../assets/LI.png"
 
 
 export const data=[
