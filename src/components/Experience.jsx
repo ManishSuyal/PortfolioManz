@@ -28,7 +28,7 @@ const Experience = () => {
     {
       id: 1,
       company: 'Deloitte USI',
-      role: 'Analyst',
+      role: 'Associate',
       location: 'Hyderabad, Onsite',
       duration: 'May 2024 - Present',
       icon: <GlobeIcon className="text-teal-400 w-6 h-6" />,
